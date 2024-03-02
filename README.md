@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jacqueline+Atae;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">" Passionate  coder"</h3>
+<h4 align="center">- @ratnakar -</h4>
 
 <br>
 
@@ -57,12 +57,8 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<a href = "mailto: ratnakary41@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ratnakar-dashrath-yadav-677750226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
