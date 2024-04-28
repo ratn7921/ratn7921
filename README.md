@@ -36,9 +36,9 @@
 
 <br>
 
-## Academic Background + still learning:
+## Academic Background 
 
-**Software Engineering Undergraduate** \
+**Batchlor of computer application 2021-2024** \
  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
