@@ -31,7 +31,7 @@
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sql"/>](https://www.sql.com/)
 
 #### Tools:
 
@@ -46,7 +46,7 @@
 ## Academic Background 
 
 **Batchlor of computer application 2021-2024** \
- • Completed with 8 CGP\
+ • Completed with 8 CGPA\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
