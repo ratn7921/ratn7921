@@ -5,11 +5,11 @@
 
 <br>
 
+## Top Languages
 <div align="center" style="margin-bottom:200px">
+  <!-- Dynamically update top languages using GitHub Actions -->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratn7921&layout=compact&theme=radical" alt="GitHub Top Languages"/>
 </div>
-
-<br>
 
 ## Languages and Tools
 
