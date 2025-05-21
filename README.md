@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://drive.google.com/file/d/1Y9l_HZZmfr3HEBz_gKvuGhvd8w6_JtaE/view" />
 
 ###
 
