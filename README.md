@@ -5,62 +5,73 @@
 
 <br>
 
-## Top Languages
-<div align="center" style="margin-bottom:200px">
-  <!-- Dynamically update top languages using GitHub Actions -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratn7921&layout=compact&theme=radical" alt="GitHub Top Languages"/>
+<h2 align="left">Hi 👋! My name is Ratnakar and I'm a passionate Software Engineering student from India.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratn7921&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratn7921&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-## Languages and Tools
+###
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-### Main Stack:
-[<img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Node.js Icon" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-[<img height="48px" width="48px" alt="React Icon" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+###
 
-### Backend & Databases:
-[<img height="48px" width="48px" alt="Spring Icon" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot)
-[<img height="48px" width="48px" alt="PostgreSQL Icon" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
-[<img height="48px" width="48px" alt="MySQL Icon" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+## 🛠 Languages and Tools
 
-### Languages I Know:
-[<img height="48px" width="48px" alt="Java Icon" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
-[<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>]()
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+</div>
 
-### Currently Studying:
-[<img height="48px" width="48px" alt="TypeScript Icon" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-[<img height="48px" width="48px" alt="SQL Icon" src="https://skillicons.dev/icons?i=sql"/>](https://www.sql.com/)
+###
 
-### Tools:
-[<img height="48px" width="48px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>](https://docker.com/)
+## 🎓 Academic Background
+
+### 🎓 Bachelor of Computer Application (2021–2024)
+- Completed with 8 CGPA  
+- Topics Covered:  
+  `Agile Methodologies`, `Requirements Engineering`, `Software Architecture`, `Software Development`,  
+  `Software Security`, `Software Quality`, `Project Management`, `Professional Ethics`
+
+### 👨‍💻 Full Stack Developer (In Progress)
+- Skills:  
+  `HTML5`, `CSS3`, `SASS`, `Flexbox`, `GRID`, `Bootstrap`, `JavaScript`, `Git`, `GitHub`,  
+  `TypeScript`, `PostgreSQL`, `Node.js`, `ExpressJS`, `Next.js`, `Bulma`, `MongoDB`, `Electron.js`,  
+  `Spring MVC`, `Spring Boot`, `Microservices`, `JUnit`, `MySQL`, `Core Java`
 
 <br>
 
-## Academic Background
-
-**Bachelor of Computer Application (2021-2024)**  
-• Completed with 8 CGPA  
-Skills: `Agile Methodologies`, `Requirements Engineering`, `Software Architecture`, `Professional Ethics`,  
-`Project Management`, `Software Development`, `Software Security`, `Software Quality`
-
-**Full Stack Developer**  
-• In Progress  
-Skills: `HTML5`, `CSS3`, `SASS`, `Flexbox`, `GRID`, `Bootstrap`, `JavaScript`, `Git`, `GitHub`,  
-`TypeScript`, `PostgreSQL`, `Node.js`, `ExpressJS`, `Next.js`, `Bulma`, `MongoDB`, `Electron.js`,  
-`Spring MVC`, `Spring Boot`, `Microservices`, `JUnit`, `MySQL`, `Core Java`
-
-<br>
-
-## Contact Me
+## 📬 Contact Me
 
 <div align="center">
   <a href="mailto:ratnakary41@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ratnakar-dashrath-yadav-677750226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </div>
