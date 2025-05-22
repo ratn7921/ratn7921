@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif" alt="coding animation" />
+<img align="right" height="125" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif" alt="coding animation" />
 
 ###
 
