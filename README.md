@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ratnakar;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
 
-<h3 align="center">"Passionate Coder"</h3>
+<h3 align="center">"Full-Stack AI Engineer"</h3>
 <h4 align="center">- @ratnakar -</h4>
 
 <br>
 
-<h2 align="left">Hi 👋! My name is Ratnakar and I'm a passionate Software Engineering student from India.</h2>
+<h2 align="left">Hi 👋! My name is Ratnakar and I'm a A Full-Stack AI Engineer from India.</h2>
 
 ---
 
@@ -35,21 +35,21 @@
 ## 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MachineLearning/MachineLearning-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Statistics/Statistics-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
 </div>
@@ -65,12 +65,12 @@
   `Software Development`, `Software Security`, `Software Quality`,  
   `Project Management`, `Professional Ethics`
 
-### 👨‍💻 Full Stack Developer (In Progress)
+### 👨‍💻 Full Stack  AI Engineer, ML Engineer (In Progress)
 - Skills:  
-  `HTML5`, `CSS3`, `SASS`, `Flexbox`, `GRID`, `Bootstrap`, `JavaScript`,  
-  `Git`, `GitHub`, `TypeScript`, `PostgreSQL`, `Node.js`, `ExpressJS`,  
-  `Next.js`, `Bulma`, `MongoDB`, `Electron.js`, `Spring MVC`, `Spring Boot`,  
-  `Microservices`, `JUnit`, `MySQL`, `Core Java`
+  `numpy`, `pandas`, `matlab`, `Machine Learning`, `Deep Learning`, `NLP`, `JavaScript`,  
+  `Git`, `GitHub`, `TypeScript`, `PostgreSQL`, `SQL`, `Docker`,  
+  `Java`, `Cloud`, `MongoDB`, `Electron.js`, `Spring MVC`, `Spring Boot`,  
+  `Microservices`, `JUnit`, `MySQL`, `ML Ops FastAPI`
 
 ---
 
