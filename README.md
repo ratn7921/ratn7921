@@ -1,150 +1,105 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ratnakar+Dashrath+Yadav;I'm+an+AI+Engineer+%7C+Software+Developer;Building+AI-powered+Systems+for+Real+World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ratnakar;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
 
-<h3 align="center">"AI Engineer in Action 🚀"</h3>
-<h4 align="center">– Turning Code, Data & Models into Impact –</h4>
+<h3 align="center">"Passionate Coder"</h3>
+<h4 align="center">- @ratnakar -</h4>
 
----
+<br>
 
-## 👋 Hi, I’m Ratnakar
-
-I’m an **AI Engineer & Software Engineer** from **India**, actively building **end-to-end AI systems** — from data preprocessing and model training to API deployment and cloud-ready applications.
-
-I come from a **strong software engineering background (Java, Spring Boot, Full-Stack)** and I’m now specializing in **Machine Learning, Deep Learning, and Generative AI**.
-
-> 💡 I don’t just learn AI — **I ship AI**.
+<h2 align="left">Hi 👋! My name is Ratnakar and I'm a passionate Software Engineering student from India.</h2>
 
 ---
-
-## 🧠 What I Do as an AI Engineer
-
-- ✅ Build **Machine Learning models** (Regression, Classification)
-- ✅ Develop **Deep Learning systems** (CNNs, Neural Networks)
-- ✅ Create **NLP & GenAI applications** (LLMs, RAG, Agents)
-- ✅ Deploy AI models using **FastAPI & Docker**
-- ✅ Integrate AI into **production-grade software systems**
-- ✅ Follow **MLOps & DevOps best practices**
-- ✅ Communicate insights clearly to **technical & non-technical users**
-
----
-
-## ⚙️ AI / ML / GenAI Tech Stack
-
-### 🧪 Core AI & Data
-- Python, NumPy, Pandas
-- Matplotlib, Seaborn
-- SQL (PostgreSQL, MySQL)
-
-### 🤖 Machine Learning
-- Scikit-learn
-- Feature Engineering
-- Model Evaluation & Tuning
-- Regression & Classification
-- Clustering (KMeans, DBSCAN)
-
-### 🧠 Deep Learning
-- TensorFlow
-- Neural Networks
-- CNNs
-- Backpropagation
-- Image Classification
-
-### 🗣 NLP & GenAI
-- NLP fundamentals (TF-IDF, Embeddings)
-- LLMs & Prompt Engineering
-- RAG (Retrieval Augmented Generation)
-- LangChain
-- Agentic AI (LangGraph, CrewAI)
-- Vector Databases
-
-### 🚀 Deployment & MLOps
-- FastAPI
-- Docker
-- MLflow
-- GitHub Actions (CI/CD)
-- Cloud (AWS / Azure – in progress)
-
----
-
-## 🛠 Software Engineering Stack
-
-- Java, Spring Boot, Spring AI
-- JavaScript, TypeScript
-- React, Node.js, Express
-- REST APIs
-- Git & GitHub
-- Agile / Scrum
-- Postman, JIRA
-
----
-
-## 📌 Featured AI & Software Projects
-
-### 🔹 Ocean Sentinel (AI + Web)
-- Built a web system to track **ocean crimes & whale hunting**
-- Integrated maps, APIs, and analytics
-- Tech: Node.js, React, APIs
-
-### 🔹 Google Drive Clone
-- Secure cloud-based file storage system
-- REST APIs + Authentication
-- Tech: Java, Spring Boot, MySQL, React
-
-### 🔹 AI Projects (Ongoing)
-- ML price prediction system
-- Image classification using CNNs
-- NLP-based classification systems
-- RAG-powered AI assistants
-- End-to-end deployed AI pipelines
-
-👉 *More AI projects coming weekly — stay tuned.*
-
----
-
-## 🎓 Education
-
-### 🎓 Bachelor of Computer Application (BCA)
-**CGPA:** 7.84  
-**Focus Areas:**
-- Software Engineering
-- Data Structures & Algorithms
-- Databases
-- Full-Stack Development
-- AI Integration using Spring AI
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratn7921&show_icons=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratn7921&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ratn7921&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratn7921&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ratn7921&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ratn7921&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ratn7921&theme=dracula&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ratn7921&label=Profile+views&color=blue&style=flat" alt="ratn7921" />
+</div>
+
+<br>
+
+<img align="right" height="125" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif" alt="coding animation" />
+
+---
+
+## 🛠 Languages and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
 </div>
 
 ---
 
-## 🌍 Let’s Connect
+## 🎓 Academic Background
+
+### 🎓 Bachelor of Computer Application (2021–2024)
+- Completed with 8 CGPA  
+- Topics Covered:  
+  `Agile Methodologies`, `Requirements Engineering`, `Software Architecture`,  
+  `Software Development`, `Software Security`, `Software Quality`,  
+  `Project Management`, `Professional Ethics`
+
+### 👨‍💻 Full Stack Developer (In Progress)
+- Skills:  
+  `HTML5`, `CSS3`, `SASS`, `Flexbox`, `GRID`, `Bootstrap`, `JavaScript`,  
+  `Git`, `GitHub`, `TypeScript`, `PostgreSQL`, `Node.js`, `ExpressJS`,  
+  `Next.js`, `Bulma`, `MongoDB`, `Electron.js`, `Spring MVC`, `Spring Boot`,  
+  `Microservices`, `JUnit`, `MySQL`, `Core Java`
+
+---
+
+## 📬 Contact Me
 
 <div align="center">
-  <a href="mailto:ratnakary41@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ratnakary41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ratnakar-dashrath-yadav-677750226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="left">
+  <a href="https://www.youtube.com/@YourChannel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/ratnakar-dashrath-yadav-677750226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/ratnakar_14_04/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
+  <a href="https://www.twitch.tv/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+<a href="https://discord.com/users/1185953772002885703" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+
 </div>
-
----
-
-## 🧬 Philosophy
-
-> **“AI is not magic.  
-It’s math + data + engineering + responsibility.”**
-
-I believe in **strong fundamentals**, **real projects**, and **sharing knowledge publicly**.
 
 ---
 
